@@ -1569,6 +1569,7 @@
                     <div class="col-lg-1"><i class="im-css3"></i> im-css3</div>
                     <div class="col-lg-1"><i class="im-chrome"></i> im-chrome</div>
                 </div>
+
                 <div class="row">
                     <div class="col-lg-1"><i class="im-firefox"></i> im-firefox</div>
                     <div class="col-lg-1"><i class="im-IE"></i> im-IE</div>
